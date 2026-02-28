@@ -5,7 +5,7 @@
 
 This repository contains the final project for the **Smartinternz:Artificial intelligence and machine learning** course. The project focuses on developing a robust machine learning model to detect fraudulent online payment transactions with high accuracy, precision, and recall.
 
-**TEAM ID**
+**TEAM ID:**
  LTVIP2026TMIDS88452
  
 **Team Members:**
