@@ -132,5 +132,5 @@ This matrix shows the model's performance on the 1,908,786 transactions in the t
 
 ## 6. Acknowledgments
 
-* This project was completed for the **BCSE306: Artificial Intelligence** course at Vellore Institute of Technology.
+* This project was completed for the **Smartinternz:Artificial intelligence and machine learning** course.
 * We acknowledge the use of Generative AI tools (Gemini, ChatGPT) for assistance in generating boilerplate code, debugging the SMOTEENN pipeline, and refining the hyperparameter tuning methodology.
